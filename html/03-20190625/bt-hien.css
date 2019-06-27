@@ -1,0 +1,99 @@
+.bta{
+    background-color: yellow;
+    display: flex;
+    text-align: center;
+}
+.bta .a1{
+    background-color: yellow;
+    padding: 25px;
+    width: 67%;
+    margin-left: 25px;
+    display: flex;
+}
+.bta .a1 .bta1{
+    background-color: blue;
+    border: 5px solid white;
+    width: 100%;
+}
+.bta .a2{
+    background-color: yellow;
+    padding: 25px;
+    width: 33%;
+    margin-right: 25px;
+}
+.bta .bta2{
+    background-color: green;
+    border: 5px solid white;
+    height: 50px;
+}
+.btb{
+    background-color: darkgray;
+    height: 200px;
+    display: flex;
+    padding: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.btb .b1{
+    width: 50%;
+    padding: 50px;
+}
+.btb .b1 .btb1{
+    background-color: blue;
+    height: 25px;
+    border: 5px solid white;
+}
+.btb .b1 .btb2{
+    background-color: blue;
+    height: 50px;
+    border: 5px solid white;
+    margin-top: 50px;
+}
+.btb .b3{
+    width: 25%;
+    padding: 12.5px;
+    display: flex;
+}.btb .b3 .btb3{
+    background-color: blue;     
+    border: 5px solid white;
+    width: 100%;
+    margin-left: 12.5px;
+    margin-right: 12.5px;
+}
+.btb .b4{
+    width: 25%;
+    padding: 12.5px;
+    display: flex;
+}
+.btb .b4 .btb4{
+    background-color: blue;     
+    border: 5px solid white;
+    width: 100%;
+    margin-left: 12.5px;
+    margin-right: 12.5px;
+}
+.btc{
+    background-color: blue;
+    display: flex;
+}
+.c1{
+    border: 5px solid white;
+}
+.btc .btc1{ 
+    width: 33.3%;
+    padding: 50px;
+}
+.c2{
+    border: 5px solid white;
+}
+.btc .btc2{
+     width: 33.4%;
+    padding: 50px;
+}
+.c3{
+    border: 5px solid white;
+}
+.btc .btc3{
+    width: 33.3%;
+    padding: 50px;
+}
