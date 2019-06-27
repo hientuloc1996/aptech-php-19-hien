@@ -1,0 +1,28 @@
+.hi{
+  width: 700px;
+  background-color: rgb(158, 207, 207);
+}
+.hi .hi1{
+  margin-left: 2px;
+  float: left;
+}
+.hi .hi2{ text-align: center;
+  background-color: yellowgreen;
+  height: 110px;
+  padding: 1px;
+}
+.hi .hi2 h2{
+  font-size: 200%;
+  color: rgb(224, 63, 63);
+}
+.hi .hi3 {font-style: italic;
+  margin-left: 20px;
+}
+.hi .hi3 h3 {
+  color: rgb(11, 4, 116);
+  font-style: initial;
+  font-family: Verdana;
+}
+.hi .hi3 ol { margin-left: 20px;
+  font-size: 20px
+}
