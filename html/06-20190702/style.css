@@ -1,0 +1,7 @@
+p{
+    margin-bottom: 0 !important;}
+li:hover{
+    border-bottom:4px solid gray;
+}
+.in{width: 300px;
+height: 45px;}
